@@ -1,0 +1,23 @@
+{
+  "counter": 2,
+  "tickets": {
+    "1548633472648609852": {
+      "number": 1,
+      "user_id": 1189828471879381123,
+      "category": "General Support",
+      "priority": "High",
+      "claimed_by": null,
+      "status": "closed",
+      "opened_at": "2026-09-13T09:56:28.700352+00:00"
+    },
+    "1548677959886307469": {
+      "number": 2,
+      "user_id": 1224821452444799069,
+      "category": "Partnership / Business",
+      "priority": "High",
+      "claimed_by": null,
+      "status": "closed",
+      "opened_at": "2026-09-13T12:53:16.053447+00:00"
+    }
+  }
+}
